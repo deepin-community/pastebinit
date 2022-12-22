@@ -1,0 +1,5 @@
+pastebin.d/ usr/share/
+pastebinit  usr/bin/
+po/mo/*     usr/share/locale/
+utils/*s    usr/bin/
+utils/*t    usr/bin/
